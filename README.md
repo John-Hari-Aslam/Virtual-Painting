@@ -1,4 +1,4 @@
-# Advanced_Virtual_Painter
+#Virtual_Painter
 AI Virtual Painter with geometric shapes | drawing in air | computer vision| opencv | AI TechStack
 AI Virtual Painter, an amazing project in python using opencv. 
 This project has the following new features : 
@@ -9,3 +9,5 @@ This project has the following new features :
   5 : Free Hand Writing 
   6 : Two fingers up, clears the complete screen 
   7 : Showing brush thickness on screen
+  
+  In order to highlight words in online classes, I have developed a Web application called Virtual Painting. This application may be written in 4 distinct colours, namely Red, Blue, Green, and Yellow, respectively, and it only recognises the point when a Blue object is used to access it.
